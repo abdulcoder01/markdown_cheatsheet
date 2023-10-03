@@ -1,2 +1,2 @@
 # markdown_cheatsheet
-Markdown sheetsheet Made from Codanics PKC23
+- This is a markdown cheatsheet I made when learning Python Ka chilla from Codanics Youtube Channel
